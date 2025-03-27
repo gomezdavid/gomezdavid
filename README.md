@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **OS, Computer Architecture, Maths, Backend Engineering and Machine Learning/AI**
 
-- 👯 I’m looking to collaborate on **Operating System project for University (UTN FRBA)**
+- 👯 I’m currently working on **Operating System project for University (UTN FRBA)**
 
 - 📫 How to reach me **davidalejandrogomez2002@gmail.com**
 
