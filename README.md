@@ -1,7 +1,7 @@
 <h1>Hey there, I'm David</h1>
 <h3>A Systems Engineering Student who likes maths, coding, and being creative.</h3>
 
-<h3>When I was a kid, I wanted to be an astronaut. Then I grew up and wanted to be a football player. Later... I grew up some more and realized I wanted to do something with technology.  
+<h7>When I was a kid, I wanted to be an astronaut. Then I grew up and wanted to be a football player. Later... I grew up some more and realized I wanted to do something with technology.  
 
 One of my favorite movies is *Big Hero 6* (a very underrated movie, in my opinion). For me, the level of technology in that movie was fascinating and truly inspiring. Many of the choices I’ve made about my career as a student were influenced by things like movies, people, and experiences.  
 
@@ -33,7 +33,7 @@ I also have some projects and exercises that I’m proud of. They reflect what I
 
 Thanks,  
 David  
-</h3>
+</h7>
 
 - 
 
