@@ -25,7 +25,8 @@ Last but not least, throughout my life I’ve talked to many people, many of the
 6. Improve 1% every day. That’s the real magic.  
 7. Do the hard work. Anyone can do the easy stuff.  
 8. Train hard and save your money.  
-9. Think about compound interest—not only with money. The rest is history.  
+9. Think about compound interest—not only with money. The rest is history.
+10. My favourite: be CREATIVE.
 
 And that’s all you need to know about me… I think.  
 
@@ -37,13 +38,9 @@ David
 
 - 
 
-  **How to reach me **davidalejandrogomez2002@gmail.com**
+  **How to reach me: **davidalejandrogomez2002@gmail.com**
 
-<h3 align="left">Check my Youtube Channel and Linkedin:</h3>
+<h7 align="left">check my socials here:</h7>
 <p align="left">
-<a href=https://www.linkedin.com/in/david-alejandro-gomez-ferreira-a72b9b1a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-alejandro-gomez-ferreira-a72b9b1a8/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@alenodav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alenodav" height="30" width="40" /></a>
+<a href=https://bento.me/alenodav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-alejandro-gomez-ferreira-a72b9b1a8/" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
