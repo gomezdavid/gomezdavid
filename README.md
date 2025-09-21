@@ -33,7 +33,7 @@ I also have some projects and exercises that I’m proud of. They reflect what I
 
 Thanks,  
 David  
-
+</h3>
 
 - 
 
