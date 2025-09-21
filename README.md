@@ -38,9 +38,8 @@ David
 
 - 
 
-  **How to reach me: **davidalejandrogomez2002@gmail.com**
+  *How to reach me: davidalejandrogomez2002@gmail.com*
 
-<h7 align="left">check my socials here:</h7>
-<p align="left">
-<a href=https://bento.me/alenodav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-alejandro-gomez-ferreira-a72b9b1a8/" height="30" width="40" /></a>
-</p>
+<h6 align="left">
+  Check my socials <a href="(https://bento.me/alenodav)" target="_blank">here</a>
+</h6>
