@@ -32,13 +32,9 @@ And that’s all you need to know about me… I think.
 
 I also have some projects and exercises that I’m proud of. They reflect what I’ve learned so far, so if you’re curious, check them out below.  
 
-Thanks,  
-David  
-</h7>
+Thanks, David  </h7> 
 
-- 
-
-  *How to reach me: davidalejandrogomez2002@gmail.com*
+*How to reach me: davidalejandrogomez2002@gmail.com*
 
 <p align="left">
   Check my socials <a href="https://bento.me/alenodav" target="_blank">here</a>.
