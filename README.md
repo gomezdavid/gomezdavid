@@ -2,7 +2,7 @@
 <h3>A Systems Engineering Student who likes maths, coding, and being creative.</h3>
 
 <h3>My experience and work</h3>
-<h6>I have knowledge of different programming paradigms and languages, as well as relational databases and their normalization. Logical and systematic thinking are key to solving any problem I encounter. Below, you will find some of my work where I faced things I didn’t know at first, but through curiosity and research, I was able to solve them. </h6>
+<h7>I have knowledge of different programming paradigms and languages, as well as relational databases and their normalization. Logical and systematic thinking are key to solving any problem I encounter. Below, you will find some of my work where I faced things I didn’t know at first, but through curiosity and research, I was able to solve them. </h7>
 
 <h3>About me and how i started with technology</h3>
 <h7>When I was a kid, I wanted to be an astronaut. Then I grew up and wanted to be a football player. Later... I grew up some more and realized I wanted to do something with technology.  
