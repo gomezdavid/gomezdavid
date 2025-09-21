@@ -1,6 +1,10 @@
 <h1>Hey there, I'm David</h1>
 <h3>A Systems Engineering Student who likes maths, coding, and being creative.</h3>
 
+<h3>My experience and work</h3>
+<h6>I have knowledge of different programming paradigms and languages, as well as relational databases and their normalization. Logical and systematic thinking are key to solving any problem I encounter. Below, you will find some of my work where I faced things I didn’t know at first, but through curiosity and research, I was able to solve them. </h6>
+
+<h3>About me and how i started with technology</h3>
 <h7>When I was a kid, I wanted to be an astronaut. Then I grew up and wanted to be a football player. Later... I grew up some more and realized I wanted to do something with technology.  
 
 One of my favorite movies is *Big Hero 6* (a very underrated movie, in my opinion). For me, the level of technology in that movie was fascinating and truly inspiring. Many of the choices I’ve made about my career as a student were influenced by things like movies, people, and experiences.  
@@ -15,6 +19,7 @@ I don’t come from a wealthy family, nor do I live in the best neighborhood. Ev
 
 So, to summarize… yes, I’m a complete nerd haha. 
 
+<h3>Rules i live by every day</h3>
 Last but not least, throughout my life I’ve talked to many people, many of them smarter than me, and I’ve learned valuable lessons that I live by every day. I want to share them with you:  
 
 1. Do the work. That’s it. Just do it.  
