@@ -13,6 +13,6 @@ Thanks, David  </h7>
 *How to reach me: davidalejandrogomez2002@gmail.com*
 
 <p align="left">
-  Check my socials <a href="https://bento.me/alenodav" target="_blank">here</a>.
+  Check my socials <a href="https://linktr.ee/alenodav" target="_blank">here</a>.
 </p>
 
