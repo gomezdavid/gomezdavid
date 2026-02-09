@@ -1,7 +1,7 @@
-<h6>Hey there, I'm David</h6>
-<h6>i like music, math, coding, and being creative.</h6>
+<h7>Hey there, I'm David</h7>
+<h7>i like music, math, coding, and being creative.</h7>
 
-<h3>My experience and work</h3>
+<h7>My experience and work</h7>
 <h7>Creativity and Logical and systematic thinking are key to solving any problem I encounter. Below, you will find some of my work where I faced things I didn’t know at first, but through curiosity and research, I was able to solve them. </h7>
 
 
