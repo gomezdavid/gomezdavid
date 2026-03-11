@@ -1,6 +1,7 @@
 ### Hey there! I'm David, here you'll find a little insight about me:
 
 ### About myself
+
 I like to share the things i learn, talk with different people and share thoughts and ideas. I think that creativity + methodic thinking is the best combination to solve any problem that you can imagine. I like to build to learn how to do things.
 ---
 ### Projects
