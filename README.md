@@ -3,7 +3,7 @@
 ### About myself
 
 I like to share the things i learn, talk with different people and share thoughts and ideas. I think that creativity + methodic thinking is the best combination to solve any problem that you can imagine. I like to build to learn how to do things.
----
+
 ### Projects
 Here you will find some of my projects where I may have encountered things that I did not know how to solve, but through curiosity I was able to solve them:
 
